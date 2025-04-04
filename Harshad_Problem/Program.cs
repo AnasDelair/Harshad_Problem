@@ -5,7 +5,6 @@
         static void Main(string[] args)
         {
             // June 2021 Paper 1
-            // Completed in 15 minutes
 
             Console.WriteLine("Enter nth Harshad: ");
             int input = Convert.ToInt32(Console.ReadLine());
